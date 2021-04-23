@@ -1,6 +1,4 @@
-<!DOCTYPE html>
-<!-- saved from url=(0041)https://www.icpdigitalpay.com/memberlogin -->
-<html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
    
 
 
@@ -110,7 +108,7 @@
 </script></head>
       
 <body class="fluid light">
-    <form method="login-form " action="file:///C:/Users/DELL/Downloads/Member%20Panel.html"
+    <form method="login-form " action=""
 <" onsubmit="javascript:return WebForm_OnSubmit();" id="form1">
 <div class="form-group">
   <div class="input-group">
@@ -250,6 +248,3 @@ function ValidatorOnSubmit() {
 <script src="./EasePack.min.js.download"></script>
 <script src="./demo.js.download"></script>
 <script src="./index.js.download"></script>
-
-
-</body></html>
