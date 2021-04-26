@@ -1,9 +1,4 @@
-
-   
-
-
-	
-	<link rel="stylesheet" type="text/css" href="./login.css"><link rel="stylesheet" type="text/css" href="./login2.css"><link id="bootstrapcss" href="./bootstrap.min.css" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="./memberlogin_files/login.css"><link rel="stylesheet" type="text/css" href="./memberlogin_files/login2.css"><link id="bootstrapcss" href="./memberlogin_files/bootstrap.min.css" rel="stylesheet">
   <script type="text/javascript">
 	      document.onkeydown = function (e) {
 	          if (event.keyCode == 123) {
@@ -27,7 +22,7 @@
       <style type="text/css">
        
 
- body#LoginForm{ background-image:./background.jpg">; background-repeat:no-repeat; background-position:center; background-size:cover; padding:10px;}                                                                                                    
+ body#LoginForm{ background-image:./memberlogin_files/background.jpg">; background-repeat:no-repeat; background-position:center; background-size:cover; padding:10px;}                                                                                                    
 
 .form-heading { color:#2ED394; font-size:23px;}
 .panel h2{ color:#444444; font-size:25px; margin:0 0 8px 0;}
@@ -108,7 +103,7 @@
 </script></head>
       
 <body class="fluid light">
-    <form method="login-form " action=""
+    <form method="login-form " action="file:///C:/Users/DELL/Downloads/Member%20Panel.html"
 <" onsubmit="javascript:return WebForm_OnSubmit();" id="form1">
 <div class="form-group">
   <div class="input-group">
@@ -134,10 +129,10 @@ function __doPostBack(eventTarget, eventArgument) {
 </script>
 
 
-<script src="./WebResource.axd" type="text/javascript"></script>
+<script src="./memberlogin_files/WebResource.axd" type="text/javascript"></script>
 
 
-<script src="./WebResource(1).axd" type="text/javascript"></script>
+<script src="./memberlogin_files/WebResource(1).axd" type="text/javascript"></script>
 <script type="text/javascript">
 //<![CDATA[
 function WebForm_OnSubmit() {
@@ -161,12 +156,12 @@ return true;
 <div class="row">
 <div class="col-md-8" style="padding-right: 0px;">
 <div class="login2" style="padding-top: 50px;padding-left: 45px;">
-      	<img src="./logo2.png">
+      	<img src="./memberlogin_files/logo2.png">
 </div>
 </div>
 <div class="col-md-4" style="padding-left: 0px;">
 <div id="div1" class="login">
-<p> <img src="./loginicon.png">  </p>
+<p> <img src="./memberlogin_files/loginicon.png">  </p>
 <p style="font-size: 20px;margin-top: 0;"> Member Login   </p>
 <p> <input name="txtemailid" type="text" maxlength="25" id="txtemailid" class="form-control" placeholder="User Id" autocomplete="off">
            <span id="rgfv" style="color:Red;visibility:hidden;">Enter Memberid</span>
@@ -244,7 +239,7 @@ function ValidatorOnSubmit() {
         //]]>
 </script>
 </form>
- <script src="./TweenLite.min.js.download"></script> 
-<script src="./EasePack.min.js.download"></script>
-<script src="./demo.js.download"></script>
-<script src="./index.js.download"></script>
+ <script src="./memberlogin_files/TweenLite.min.js.download"></script> 
+<script src="./memberlogin_files/EasePack.min.js.download"></script>
+<script src="./memberlogin_files/demo.js.download"></script>
+<script src="./memberlogin_files/index.js.download"></script>
